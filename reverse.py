@@ -1,3 +1,5 @@
+#Write a script for reverting the string in any language
+
 def ReverseS(str):
     str=list(str)
     spl_str=''
